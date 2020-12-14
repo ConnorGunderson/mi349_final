@@ -38,7 +38,7 @@ const Projects = () => {
                             This is my biggest project that I have done. This is a skeleton of the web app I made for a client that needed a quoting system for their business. main technologies used were React/Redux with an express backend hosted on a EC2 AWS instance in tandem with DynamoDB. The purpose of this app was to simplify the workflow of quoting parts for customers and store company specific data in a persistent database.
                         </p>
                         <code>Link to Github</code>
-                        <a href="https://github.com/ConnorGunderson/QuotoJet" target="_blank">
+                        <a href="https://github.com/ConnorGunderson/QuotoJet" rel="noreferrer" target="_blank">
                             <Icon 
                                 name="github" 
                                 size="big" 

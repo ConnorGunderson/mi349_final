@@ -1,5 +1,5 @@
 import React from 'react'
-import {Container, Icon, Divider, Grid, Header} from 'semantic-ui-react'
+import { Icon, Divider, Grid, Header} from 'semantic-ui-react'
 import {ResContainer} from './Globals'
 
 const Socials = () => {
@@ -16,7 +16,7 @@ const Socials = () => {
                 </Grid.Row>
                 <Grid.Row id="socialTags">
                     <ResContainer ta="center">
-                        <a href="https://github.com/ConnorGunderson" target="_blank">
+                        <a href="https://github.com/ConnorGunderson" rel="noreferrer" target="_blank">
                             <Icon 
                                 name="github square" 
                                 size="huge" 
@@ -35,7 +35,7 @@ const Socials = () => {
                         
                     </ResContainer>
                     <ResContainer ta="center">
-                        <a href="https://www.linkedin.com/in/connor-gunderson-314624171/" target="_blank">
+                        <a href="https://www.linkedin.com/in/connor-gunderson-314624171/" rel="noreferrer" target="_blank">
                             <Icon 
                                 name="linkedin" 
                                 size="huge" 
@@ -46,7 +46,7 @@ const Socials = () => {
                     </ResContainer>
                 </Grid.Row>
                 <code>
-                    Link to this website's github: <i><a href="https://github.com/ConnorGunderson/mi349_final" target="_blank" style={{color: "white", }}>Here</a></i>
+                    Link to this website's github: <i><a href="https://github.com/ConnorGunderson/mi349_final" rel="noreferrer" target="_blank" style={{color: "white", }}>Here</a></i>
                 </code>
             </Grid>
         </section>

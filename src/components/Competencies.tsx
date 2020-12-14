@@ -1,6 +1,5 @@
 import React from 'react'
-import { Container, Header, Grid, List, Divider, Rating } from 'semantic-ui-react';
-import {ResContainer} from './Globals'
+import { Header, Grid, List, Divider, Rating } from 'semantic-ui-react';
 
 
 const Competencies = () => {
