@@ -32,7 +32,7 @@ class Overview extends Component {
                                     Profession
                                 </Header>
                                 <p >
-                                    I am a full stack web developer. I love to learn and stay on the forefront of web technology. I am constantly striving to deeper my understanding of full stack web development and become a reliable client for those in need of UI/UX, database design and anything else web related. I love working in teams and strive to create a creative and productive environment.
+                                    I am a full stack web developer. I love to learn and stay on the forefront of web technology. I am constantly striving to deeper my understanding of full stack web development and become a reliable client for those in need of UI/UX, database design and anything else web related. I love working in teams and strive to encourage a creative and productive environment.
                                 </p>
 
                             </Container>
@@ -52,7 +52,7 @@ class Overview extends Component {
                                     <p className="MSU">Michigan State University</p>
                                     <p>Media and Information Major</p>
                                     <p>East Lansing, Michigan</p>
-                                    <p>22 years Old</p>
+                                    <p>22 Years Old</p>
                                 </Segment>
                             </Container>
                         </ResContainer>

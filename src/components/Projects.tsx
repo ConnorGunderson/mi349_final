@@ -28,6 +28,9 @@ const Projects = () => {
                                 src={factory}
                             />
                         </div>
+                        <aside style={{color: "black"}}>
+                            Credit: Ant Rozetsky
+                        </aside>
                     </Grid.Column>
                     <Grid.Column style={{color: "black"}}   widescreen={8} largeScreen={8} computer={8}  tablet={8} mobile={16}>
                         <Divider />
@@ -49,6 +52,5 @@ const Projects = () => {
         </Container>
     )
 }
-
 
 export default Projects;
