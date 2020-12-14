@@ -46,7 +46,7 @@ const Socials = () => {
                     </ResContainer>
                 </Grid.Row>
                 <code>
-                    Link to this Website's github: <i><a href="foo.com" target="_blank" style={{color: "white", }}>Here</a></i>
+                    Link to this website's github: <i><a href="https://github.com/ConnorGunderson/mi349_final" target="_blank" style={{color: "white", }}>Here</a></i>
                 </code>
             </Grid>
         </section>
